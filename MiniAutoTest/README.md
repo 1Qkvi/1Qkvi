@@ -33,3 +33,6 @@ pytest tests/test_ui_baidu.py --alluredir report
 
 # 4. 查看报告
 allure serve report 
+## Day11 Jenkins CI
+![Jenkins 蓝图](./images/jenkins_blueprint.png)
+![构建结果](./images/jenkins_build_success.png)
